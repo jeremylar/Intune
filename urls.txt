@@ -1,0 +1,15 @@
+https://m365maps.com/matrix.htm#000000000000000000000
+
+
+azure ad premium plan 1 a hard prerequisite for intune
+zero trust
+https://m365maps.com/matrix.htm#011111000001111010111
+https://learn.microsoft.com/en-us/security/zero-trust/zero-trust-overview
+
+
+https://learn.microsoft.com/en-us/azure/active-directory/devices/concept-azure-ad-join
+https://learn.microsoft.com/en-us/azure/active-directory/devices/concept-azure-ad-register
+
+https://learn.microsoft.com/en-us/mem/intune/enrollment/windows-bulk-enroll
+
+https://learn.microsoft.com/en-us/training/paths/endpoint-manager-fundamentals/
